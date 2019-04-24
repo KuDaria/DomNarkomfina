@@ -71,17 +71,15 @@ blockquote {
   background:#fcfcfc;
 }
 
-font-family: 'PT Sans', sans-serif;
-font-family: 'PT Sans Caption', sans-serif;
+/* font-family: 'PT Sans', sans-serif;
+font-family: 'PT Sans Caption', sans-serif; */
 
-body {
-  background-image:url(file:///Users/KuDaria/Desktop/DomNarkom/dc-online-media-mockup.jpg);
-  /* почему-то не отображается ни картинка ни цвет */
-  background-size: 800px 2024px;
+/* body {
+  background-image: url(dc-online-media-mockup.jpg);
+  background-size: 800px 20024px;
   background-position: top center;
   background-repeat: no-repeat;
-  background-color: yellow;
-}
+} */
 
 body{
   font-family: 'PT Sans', sans-serif;
