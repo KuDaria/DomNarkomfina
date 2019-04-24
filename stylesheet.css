@@ -66,7 +66,7 @@ blockquote {
   border-width: 2px 0;
   margin: 10px 40px;
   padding: 15px;
-  font-size: 20px;
+  font-size:1.25em;
   color: 50%;
   background:#fcfcfc;
 }
@@ -87,8 +87,8 @@ body{
   margin: 0 auto;
 }
 ol{
-  font-size: 13pt;
+  font-size: 1em;
 }
 ul{
-  font-size: 13pt;
+  font-size: 1em;
 }
